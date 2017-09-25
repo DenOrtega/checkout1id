@@ -1792,7 +1792,7 @@ div.tab button.active {
   border-radius: 16px;
   padding-left: 15px;
 }
-.DireccionInput:focus, .instal-selct-box select:focus, #AjaxCheckoutLogon .form_input input:focus, #checkout_billing_zipCode:focus, #checkout_billing_guestIdentity:focus, #ShipAddressForm #checkout_shipping_address3:focus, #checkoutBillingAddressForm .form_input input:focus{
+.DireccionInput:focus, .instal-selct-box select:focus, #AjaxCheckoutLogon .button a:focus, #checkout_guest_user .button a:focus, #AjaxCheckoutLogon .form_input input:focus, #checkout_billing_zipCode:focus, #checkout_billing_guestIdentity:focus, #ShipAddressForm #checkout_shipping_address3:focus, #checkoutBillingAddressForm .form_input input:focus{
   box-shadow: 0px 0px 2px rgba(255, 159, 54, 0.74);
   border:1px solid #ff9f36;
   outline: none !important;
